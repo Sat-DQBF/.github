@@ -14,7 +14,8 @@ The projects in this account are based on the following publications:
 
 *   Model Counting for Dependency Quantified Boolean Formulas\
     Long-Hin Fung, Che Cheng, Jie-Hong Roland Jiang, Friedrich Slivovsky, Tony Tan\
-    To appear in the Proceedings of AAAI 2026
+    To appear in the Proceedings of AAAI 2026\
+    https://github.com/Sat-DQBF/sharp2DQR
 
 *   Fine-Grained Complexity Analysis of Dependency Quantified Boolean Formulas\
     Che Cheng, Long-Hin Fung, Jie-Hong Roland Jiang, Friedrich Slivovsky, Tony Tan\
