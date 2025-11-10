@@ -23,7 +23,7 @@ The projects in this account are based on the following publications:
     Submitted to Journal of AI Research
 
 *   2-DQBF Solving and Certification via Property-Directed Reachability Analysis\
-    Long-Hin Fung, Che Cheng, Yu-Wei Fan, Tony Tan, Jie-Hong Roland Jiang\    
+    Long-Hin Fung, Che Cheng, Yu-Wei Fan, Tony Tan, Jie-Hong Roland Jiang\
     Proceedings of FMCAD 2024 (best paper award)\
     Invited and submitted to Formal Methods in System Designs
 
