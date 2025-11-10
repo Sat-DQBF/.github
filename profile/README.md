@@ -6,8 +6,8 @@ We are a team of researchers from University of Liverpool (UK) and National Taiw
 *   Che Cheng (PhD student in NTU)
 *   Long-Hin Fung (MSc student in NTU)
 *   Wen-Hong Huang (MSc student in NTU)
-*   Friedrich Slivovksy (Liverpool)
 *   Jie-Hong Roland Jiang (NTU)
+*   Friedrich Slivovksy (Liverpool)
 *   Tony Tan (Liverpool)
 
 The projects in this account are based on the following publications:
