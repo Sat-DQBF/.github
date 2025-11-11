@@ -27,7 +27,7 @@ The projects in this account are based on the following publications:
     Long-Hin Fung, Che Cheng, Yu-Wei Fan, Tony Tan, Jie-Hong Roland Jiang\
     Proceedings of FMCAD 2024 (best paper award)\
     Invited and submitted to Formal Methods in System Designs\
-    Code+benchmarks: https://github.com/Sat-DQBF/2-DQBF-Solving-and-Certification-via-Property-Directed-Reachability-Analysis
+    Code+benchmarks: https://github.com/Sat-DQBF/2DQR-using-ABC
 
 *   On the Complexity of k-DQBF\
     Long-Hin Fung, Tony Tan\
