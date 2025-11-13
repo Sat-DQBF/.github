@@ -4,7 +4,7 @@ In this GitHub account you can find the repositories of our DQBF related solvers
 
 We are a team of researchers from University of Liverpool and National Taiwan University:
 *   Che Cheng (PhD student in NTU)
-*   Long-Hin Fung (MSc,PhD student in NTU)
+*   Long-Hin Fung (MSc student in NTU)
 *   Wen-Hong Huang (MSc student in NTU)
 *   Jie-Hong Roland Jiang (NTU)
 *   Friedrich Slivovksy (Liverpool)
