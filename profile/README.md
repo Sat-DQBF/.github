@@ -26,14 +26,14 @@ The projects in this account are based on the following publications:
 
 *   2-DQBF Solving and Certification via Property-Directed Reachability Analysis\
     Long-Hin Fung, Che Cheng, Yu-Wei Fan, Tony Tan, Jie-Hong Roland Jiang\
-    Proceedings of FMCAD 2024 (best paper award)\
+    [Proceedings of FMCAD 2024](https://repositum.tuwien.at/handle/20.500.12708/200792) (best paper award)\
     Invited and submitted to Formal Methods in System Designs\
     Code+benchmarks: https://github.com/Sat-DQBF/2DQR-using-ABC
 
 *   On the Complexity of k-DQBF\
     Long-Hin Fung, Tony Tan\
-    Proceedings of SAT 2023
+    [Proceedings of SAT 2023](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SAT.2023.10)
 
 *   Reducing NEXP-complete problems to DQBF\
     Fa-Hsun Chen, Shen-Chang Huang, Yu-Cheng Lu, Tony Tan\
-    Proceedings of FMCAD 2022
+    [Proceedings of FMCAD 2022](https://repositum.tuwien.at/handle/20.500.12708/81352)
