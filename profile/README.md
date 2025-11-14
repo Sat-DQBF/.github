@@ -20,7 +20,7 @@ The projects in this account are based on the following publications:
 
 *   Fine-Grained Complexity Analysis of Dependency Quantified Boolean Formulas\
     Che Cheng, Long-Hin Fung, Jie-Hong Roland Jiang, Friedrich Slivovsky, Tony Tan\
-    Proceedings of SAT 2025\
+    [Proceedings of SAT 2025](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SAT.2025.10)\
     Invited to Journal of AI and Journal of AI Research\
     Submitted to Journal of AI Research
 
