@@ -1,6 +1,6 @@
 # Sat-DQBF: Solving the satisfiability of DQBF
 
-In this GitHub account you can find the repositories of our DQBF related solvers.
+In this GitHub account you can find the repositories of our DQBF related solvers. (Another project related to GNN can be found here: https://zenodo.org/records/17485304)
 
 We are a team of researchers from University of Liverpool and National Taiwan University:
 *   Che Cheng (PhD student in NTU)
