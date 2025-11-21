@@ -1,7 +1,7 @@
 # Sat-DQBF: Solving the satisfiability of DQBF
 
 In this GitHub account you can find the repositories of our DQBF related solvers.\
-(Another project related to GNN robustness verification can be found in https://arxiv.org/abs/2510.18591 and https://zenodo.org/records/17485304)
+(Another project on GNN robustness verification can be found in https://arxiv.org/abs/2510.18591 and https://zenodo.org/records/17485304)
 
 We are a team of researchers from University of Liverpool and National Taiwan University:
 *   Che Cheng (PhD student in NTU)
