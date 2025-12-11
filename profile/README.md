@@ -2,12 +2,12 @@
 
 In this GitHub account you can find the repositories of our DQBF related solvers.
 
-We are a team of researchers from University of Liverpool and National Taiwan University:
+We are a team of researchers from University of Liverpool and National Taiwan University (NTU):
 *   Che Cheng (PhD student in NTU)
 *   Long-Hin Fung (MSc student in NTU)
 *   Wen-Hong Huang (MSc student in NTU)
-*   Jie-Hong Roland Jiang (NTU)
-*   Friedrich Slivovksy (Liverpool)
+*   [Jie-Hong Roland Jiang](https://cc.ee.ntu.edu.tw/~jhjiang/) (NTU)
+*   [Friedrich Slivovksy](https://fslivovsky.github.io/) (Liverpool)
 *   [Tony Tan](https://ptonytan.github.io/) (Liverpool)
 
 The projects in this account are based on the following publications:
