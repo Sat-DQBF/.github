@@ -8,7 +8,7 @@ We are a team of researchers from University of Liverpool and National Taiwan Un
 *   Wen-Hong Huang (MSc student in NTU)
 *   Jie-Hong Roland Jiang (NTU)
 *   Friedrich Slivovksy (Liverpool)
-*   Tony Tan (Liverpool)
+*   [Tony Tan](https://ptonytan.github.io/) (Liverpool)
 
 The projects in this account are based on the following publications:
 
