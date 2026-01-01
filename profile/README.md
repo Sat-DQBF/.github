@@ -34,6 +34,14 @@ The projects in this account are based on the following publications:
     Long-Hin Fung, Tony Tan\
     [Proceedings of SAT 2023](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SAT.2023.10)
 
+*   Lifting (D)QBF Preprocessing and Solving Techniques to (D)SSAT\
+    Che Cheng, Jie-Hong Roland Jiang\
+    [Proceedings of AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25504)
+
+*   Second-Order Quantified Boolean Logic\
+    Jie-Hong Roland Jiang\
+    [Proceedings of AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25515)
+
 *   Reducing NEXP-complete problems to DQBF\
     Fa-Hsun Chen, Shen-Chang Huang, Yu-Cheng Lu, Tony Tan\
     [Proceedings of FMCAD 2022](https://repositum.tuwien.at/handle/20.500.12708/81352)
@@ -49,3 +57,7 @@ The projects in this account are based on the following publications:
 *  	Davis and Putnam Meet Henkin: Solving DQBF with Resolution\
     Joshua Blinkhorn, Tomás Peitl, Friedrich Slivovsky\
    	[Proceedings of SAT 2021](https://link.springer.com/chapter/10.1007/978-3-030-80223-3_4)
+
+*   A PSPACE Subclass of Dependency Quantified Boolean Formulas and Its Effective Solving\
+    Christoph Scholl, Jie-Hong Roland Jiang, Ralf Wimmer, Aile Ge-Ernst\
+    [Proceedings of AAAI 2019](https://ojs.aaai.org/index.php/AAAI/article/view/3973)
