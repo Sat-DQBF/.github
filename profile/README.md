@@ -37,3 +37,15 @@ The projects in this account are based on the following publications:
 *   Reducing NEXP-complete problems to DQBF\
     Fa-Hsun Chen, Shen-Chang Huang, Yu-Cheng Lu, Tony Tan\
     [Proceedings of FMCAD 2022](https://repositum.tuwien.at/handle/20.500.12708/81352)
+
+*   Pedant: A Certifying DQBF Solver\
+    Franz-Xaver Reichl, Friedrich Slivovsky\
+    [Proceedings of SAT 2022](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SAT.2022.20)
+
+* 	Certified DQBF Solving by Definition Extraction\
+    Franz-Xaver Reichl, Friedrich Slivovsky, Stefan Szeider\
+  	[Proceedings of SAT 2021](https://link.springer.com/chapter/10.1007/978-3-030-80223-3_34)
+
+*  	Davis and Putnam Meet Henkin: Solving DQBF with Resolution\
+    Joshua Blinkhorn, Tomás Peitl, Friedrich Slivovsky\
+   	[Proceedings of SAT 2021](https://link.springer.com/chapter/10.1007/978-3-030-80223-3_4)
